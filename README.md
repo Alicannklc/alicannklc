@@ -1,3 +1,1 @@
-  - I am looking for a job where I can improve my English and myself.
-  - 
-  - ingilizcemi ve kendimi geliştirebilecegim iş ariyorum.
+![Alicannklc GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alicannklc&show_icons=true)
